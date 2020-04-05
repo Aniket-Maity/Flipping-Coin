@@ -16,14 +16,14 @@ Output :
 Output 1 line for each of the queries of the form "1 A B" containing the required answer for the corresponding query.
 
 Sample Input :
-4 7
-1 0 3
-0 1 2
-1 0 1
-1 0 0
-0 0 3
-1 0 3 
-1 3 3
+4 7\n
+1 0 3\n
+0 1 2\n
+1 0 1\n
+1 0 0\n
+0 0 3\n
+1 0 3\n
+1 3 3\n
 
 Sample Output :
 0
